@@ -1,0 +1,6 @@
+{
+  "name": "Moises - Demucs Audio Separation & Stem Mixer",
+  "description": "Minimalistic Apple-inspired audio source separation workstation powered by Demucs 4-stem extraction with independent volume sliders, real-time playback controls, pitch/speed adjustment, and stem export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
